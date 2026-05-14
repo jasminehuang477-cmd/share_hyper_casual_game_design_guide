@@ -1,0 +1,20 @@
+{
+  "title": "超休闲游戏关卡设计与 AI 管线内部指南",
+  "created_at": "2026-05-15",
+  "updated_at": "2026-05-15",
+  "source_file": "../hyper_casual_game_design_guide.html",
+  "version": "1.1.0",
+  "audience": "战略研究部创新组内部成员",
+  "project": "strategy-innovation-lab / 01_hyper_casual_ai_pipeline",
+  "description": "用于说明超休闲游戏关卡设计方法、竞品关卡算法拆解、AI 管线映射和创新组落地方案的内部指南。涵盖二合类 IAA 产品项目 AI 管线映射、单人策划 + AI 工具链组织模式、品类选择与阶段方向、多项目横向对比逻辑。",
+  "files": [
+    "index.html",
+    "README.md",
+    "manifest.json",
+    "assets/"
+  ],
+  "netlify_ready": true,
+  "external_dependencies": false,
+  "absolute_paths": false,
+  "language": "zh-CN"
+}
